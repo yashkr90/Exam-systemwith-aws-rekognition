@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.22.2"
+  },
+  "name": "cosmoexam",
+  "description": "<<<<<<< HEAD\r # CosmoExam\r =======\r # cosmossnow\r >>>>>>> dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
